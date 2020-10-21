@@ -15,3 +15,6 @@ Id User Bot: (the id of the bot, right click in the bot and copy id).
 
 
 4- Start your server.
+
+------------------------------------------------------------------------
+Used api: https://github.com/DV8FromTheWorld/JDA#creating-the-jda-object
