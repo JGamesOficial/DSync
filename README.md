@@ -1,7 +1,7 @@
 # DSync
 This is a simple spigot plugin which allow you to synchronize minecraft chat with a discord chat.
 
-Setup
+# Setup
 1- Download the plugin and put it in "plugins" folder.
 
 2- Create a discord bot, tutorial: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
