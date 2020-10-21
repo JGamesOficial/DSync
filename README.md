@@ -4,7 +4,7 @@ This is a simple spigot plugin which allow you to synchronize minecraft chat wit
 Setup
 1- Download the plugin and put it in "plugins" folder.
 
-2- Dreate a discord bot, tutorial: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+2- Create a discord bot, tutorial: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
 3- Edit the config:
 Bot Token: (you must create a bot and copy it´s token).
