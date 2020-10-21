@@ -1,5 +1,5 @@
 # DSync
-This is a simple spigot plugin which allow you to synchronize minecraft chat with a discord chat.
+This is a simple spigot plugin which allow you to synchronize minecraft chat with a discord channel.
 
 # Setup
 1- Download the plugin and put it in "plugins" folder.
